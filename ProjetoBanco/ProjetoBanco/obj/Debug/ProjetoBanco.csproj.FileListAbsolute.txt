@@ -1,0 +1,10 @@
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe.config
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\bin\Debug\ProjetoBanco.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Form1.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Lucas_Mateus\Mateus\Banco De Dados\ProjetoBanco\ProjetoBanco\obj\Debug\ProjetoBanco.csprojAssemblyReference.cache
